@@ -114,3 +114,12 @@ This was written as an independent project after reading Mihalák & Schlegel,
 "The Price of Anarchy in Network Creation Games Is (Mostly) Constant."
 I received guidance on the algorithm design (From my best buddy claude), then wrote the code myself
 and verified the n = 3 cases by hand, was fun.
+
+## References
+- Fabrikant, A., Luthra, A., Maneva, E., Papadimitriou, C. H., & Shenker, S. (2003).
+  On a network creation game. *Proceedings of PODC 2003*.
+- Mihalák, M., & Schlegel, J. C. (2010). The price of anarchy in network creation
+  games is (mostly) constant. *Algorithmic Game Theory (SAGT 2010)*, LNCS.
+- Malkiel, I. *The Price of Anarchy in Network Creation Games Is (Mostly) Constant*,
+  student final project, Computational Game Theory course (Tel Aviv University).
+  This summary was my starting point for the project.
